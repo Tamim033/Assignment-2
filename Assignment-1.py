@@ -7,8 +7,8 @@ print("Addition of the Lists :", list_3)
 print("Reverse List:", list_3[::-1])
 list_3.insert(0,9)
 print("Added in Beginning-", list_3 )
-list_5 = [5, 20, 15, 20, 25, 50, 20]
-print("Repeated item list :", list_5)
+list_4 = [5, 20, 15, 20, 25, 50, 20]
+print("Repeated item list :", list_4)
 item = input('Plz input item to remove from new list: ')
-list_5 = [i for i in list_5 if i != int(item)]
-print("Removed List :", list_5)
+list_4 = [i for i in list_4 if i != int(item)]
+print("Removed List :", list_4)
