@@ -11,6 +11,6 @@ list_3.insert(i2+1,9)
 print("Added List", list_3 )
 list_4 = [5, 20, 15, 20, 25, 50, 20]
 item = 20
-print("Repeated item list : ", list_4 , "item to be remove:", item )
+print("Repeated item list : ", list_4 , "item to be removed: ", item )
 list_4 = [i for i in list_4 if i != int(item)]
 print("Removed List :", list_4)
