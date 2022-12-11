@@ -1,2 +1,3 @@
-# Python-Assignment-1
-First Python Assignment
+# Python-Assignment-2
+Second Python Assignment
+Initial Inputs 
